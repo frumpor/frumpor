@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @frumpor
+- 👀 I’m lead dev for $FLUFFY
