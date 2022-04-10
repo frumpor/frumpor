@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @frumpor
-- 👀 I’m lead dev for $FLUFFY
+- 👀 I’m lead dev for $HUSKY
