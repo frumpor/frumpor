@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @frumpor
-- 👀 I’m lead dev for $HUSKY
+- 👀 I’m lead dev for $DINGO
